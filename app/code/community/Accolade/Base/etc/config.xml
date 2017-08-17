@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<Accolade_Base>
+			<version>0.1.0</version>
+		</Accolade_Base>
+	</modules>
+	<global>
+		<blocks>
+			<accolade_base>
+				<class>Accolade_Base_Block</class>
+			</accolade_base>
+		</blocks>
+		<helpers>
+			<accolade_base>
+				<class>Accolade_Base_Helper</class>
+			</accolade_base>
+		</helpers>
+	</global>
+	<adminhtml>
+		<layout>
+			<updates>
+				<accolade_base>
+					<file>accolade/base.xml</file>
+				</accolade_base>
+			</updates>
+		</layout>
+	</adminhtml>
+</config>

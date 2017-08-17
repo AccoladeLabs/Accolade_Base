@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config>
+
+    <tabs>
+        <accolade translate="label" module="accolade_base">
+            <label><![CDATA[<div style="float: right; margin-right: 5px;"><img id="accolade_tab" src="" alt="" border="0" /></div><script>
+            var n = SKIN_URL.indexOf("adminhtml");
+            $('accolade_tab').src = SKIN_URL.substring(0, n) + "adminhtml/default/default/images/accolade/base/logo.png";
+            </script>]]>Accolade Partners</label>
+            <sort_order>220</sort_order>
+        </accolade>
+    </tabs>
+
+</config>

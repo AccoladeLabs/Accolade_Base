@@ -1,0 +1,3 @@
+#advanced_modules_disable_output tr.selected-1 { background: #FFEBEB; }
+#advanced_modules_disable_output tr.selected-1 select { border-color: #D68A8A; }
+#advanced_modules_disable_output tr.selected-changed label { font-weight: bold; }

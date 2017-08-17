@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<layout>
+
+	<adminhtml_system_config_edit>
+		<reference name="head">
+			<action method="addItem"><type>skin_js</type><name>accolade/base/js/config.js</name></action>
+            <action method="addCss"><name>accolade/base/css/config.css</name></action>
+		</reference>
+	</adminhtml_system_config_edit>
+
+</layout>

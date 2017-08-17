@@ -1,0 +1,20 @@
+{
+    "name": "accoladelabs/accolade_base",
+    "description": "The base module for all modules provided by Accolade Labs",
+    "homepage": "https://accolade.fi/",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "^3.1"
+    },
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "name": "Billy Brawner",
+            "email": "billybrawner@gmail.com"
+        }
+    ],
+    "support": {
+        "email": "info@accolade.fi",
+        "issues": "https://github.com/AccoladeLabs/Accolade_Base/issues"
+    }
+}
